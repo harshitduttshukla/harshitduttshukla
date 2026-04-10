@@ -2,16 +2,22 @@
 <h3 align="center">🚀 Full Stack Developer | MERN | FastAPI | Backend Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;FastAPI+Developer;Docker+Enthusiast;Building+Scalable+Systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;FastAPI+Developer;Docker+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/harshitshukla2"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/Harshitshukla63"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://github.com/harshitduttshukla"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/harshitshukla2">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/Harshitshukla63">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://github.com/harshitduttshukla">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -19,6 +25,11 @@
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,js,docker,aws,cpp,python,fastapi" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=expo" />
 </p>
 
 ---
@@ -33,7 +44,10 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitduttshukla&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitduttshukla&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitduttshukla&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -49,8 +63,10 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
-![snake gif](https://github.com/harshitduttshukla/harshitduttshukla/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshitduttshukla/harshitduttshukla/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
